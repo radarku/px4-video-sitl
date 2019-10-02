@@ -4,6 +4,8 @@ PX4 Video SITL
 
 This Docker Container spins-up a PX4 SITL and exports a representative video stream from the platform
 
+![PX4 Video SITL](https://raw.githubusercontent.com/radarku/px4-video-sitl/master/px4-video-sim3-2019-06-25_15.51.50.mp4)
+
 Usage
 -----
 
