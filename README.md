@@ -10,7 +10,8 @@ Usage
 To build the container
 
 ```
-docker build --rm --tag px4vid .
+chmod +x build.sh
+./build.sh
 ```
 
 To run the container
